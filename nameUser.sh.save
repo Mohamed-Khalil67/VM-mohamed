@@ -1,0 +1,2 @@
+read -p "Enter ur name: " str1
+	-> date1=echo "name user = $str1 , date = $date1"
